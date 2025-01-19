@@ -1,1 +1,2 @@
 Hi all, welcome to GIT session.
+We are at basics of GIT
