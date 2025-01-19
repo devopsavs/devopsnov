@@ -1,4 +1,4 @@
 Hello
 Hi
 GIT class is ongoing
-Is it a goof approach to pull everytime?
+Is it a good approach to pull everytime?
