@@ -1,3 +1,4 @@
 Hello
 Hi
 GIT class is ongoing
+Is it a goof approach to pull everytime?
